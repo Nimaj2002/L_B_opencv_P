@@ -1,2 +1,5 @@
 # L_B_opencv_P
-little big opencv programs
+
+This a Repo for my opencv practices 
+
+> testing videos not included 
